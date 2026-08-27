@@ -32,4 +32,3 @@ jobs:
         with:
           name: Assistant-Debug-APK
           path: app/build/outputs/apk/debug/*.apk
-          path: app/build/outputs/apk/debug/*.apk
